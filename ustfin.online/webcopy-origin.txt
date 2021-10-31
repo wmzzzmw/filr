@@ -1,0 +1,96 @@
+Uri: https://ustfin.online/
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:700|Roboto:400,400i,700&display=swap
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\css.css
+Content Type: text/css
+
+Uri: https://ustfin.online/assets/css/theme.css
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://ustfin.online/form/css/intlTelInput.min.css
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\bootstrap-templates\startup\devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers\index.htm
+Content Type: text/html
+
+Uri: https://ustfin.online/privacy.html
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\privacy.html
+Content Type: text/html
+
+Uri: https://ustfin.online/assets/fontawesome/js/all.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\fontawesome\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/assets/images/profiles/profile-3.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\images\profiles\profile-3.png
+Content Type: image/png
+
+Uri: https://ustfin.online/finikoscam.jpg
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\finikoscam.jpg
+Content Type: image/jpeg
+
+Uri: https://ustfin.online/return.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\return.png
+Content Type: image/png
+
+Uri: https://ustfin.online/assets/images/profiles/profile-1.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\images\profiles\profile-1.png
+Content Type: image/png
+
+Uri: https://ustfin.online/assets/images/profiles/profile-2.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\images\profiles\profile-2.png
+Content Type: image/png
+
+Uri: https://ustfin.online/assets/images/profiles/profile-4.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\images\profiles\profile-4.png
+Content Type: image/png
+
+Uri: https://ustfin.online/assets/images/profiles/profile-5.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\images\profiles\profile-5.png
+Content Type: image/png
+
+Uri: https://ustfin.online/assets/plugins/popper.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\plugins\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/assets/plugins/smoothscroll.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\plugins\smoothscroll.min.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/assets/js/main.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\ajax\libs\jquery\2.2.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ustfin.online/form/js/intlTelInput-jquery.min.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\js\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/form/js/lead.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\js\lead.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/form/js/utils.js
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\js\utils.js
+Content Type: application/javascript
+
+Uri: https://ustfin.online/form/img/flags.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\img\flags.png
+Content Type: image/png
+
+Uri: https://ustfin.online/form/img/flags@2x.png
+File Name: C:\Users\wzw\Documents\сайты\ustfin.online\form\img\flags@2x.png
+Content Type: image/png
+
